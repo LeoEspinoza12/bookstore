@@ -1,0 +1,51 @@
+.top-bar {
+  margin-bottom: 20px;
+}
+ul,li {
+    list-style: none;
+}
+
+.top-bar {
+    margin-bottom: 20px;
+}
+
+.book {
+    text-align: center;
+    float: left;
+    margin: 0 0px 0 20px
+}
+
+.book h4 {
+    margin-top: 15px;
+}
+
+.book p {
+  font-size: 0.7em;
+  height: 35px;
+  text-align: justify
+
+}
+.price {
+    margin: 5px;
+    font-size: 18px;
+}
+
+.price span {
+    color: green;
+    background: #f4f4f4;
+    padding: 10px;
+    border: 1px #ccc solid;
+    border-radius: 50%;
+}
+
+footer {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+}
+
+img {
+    width: inherit
+}
